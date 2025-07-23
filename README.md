@@ -24,7 +24,7 @@ Bu proje, admin yönetim panelini oluşturan bir web uygulamasıdır. Yöneticil
 
 ## Ekran Görüntüsü
 
+![admindashboard](https://github.com/user-attachments/assets/14fae838-1ded-4f4a-bb62-32e4ee10174c)
 
 
-https://github.com/user-attachments/assets/5acb44fa-3fb0-42fd-93bf-2aa26ef21afd
 
